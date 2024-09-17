@@ -1,0 +1,9 @@
+# Ignore  build artifacts
+lib/
+
+# Ignore env files
+*.env
+.env
+
+# Ignore node modules
+node_modules/
